@@ -7,7 +7,6 @@ class SessionsController < Clearance::SessionsController
   end
 
   def session_params
-    byebug
     { session: session_params_with_email }
   end
 
