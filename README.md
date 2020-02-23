@@ -5,7 +5,11 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version ruby-2.4.0
+
+* Rails version 5.0.7.2
+
+* ruby-gemset shoutr
 
 * System dependencies
 
